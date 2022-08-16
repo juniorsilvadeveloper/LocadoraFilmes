@@ -1,0 +1,59 @@
+C:\Users\55359\Desktop\LojaUrucasImportados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\55359\Desktop\LojaUrucasImportados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\55359\Desktop\LojaUrucasImportados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\55359\Desktop\LojaUrucasImportados\AcessoBancoDados\obj\Debug\AcessoBancoDados.csproj.AssemblyReference.cache
+C:\Users\55359\Desktop\LojaUrucasImportados\AcessoBancoDados\obj\Debug\AcessoBancoDados.csproj.CoreCompileInputs.cache
+C:\Users\55359\Desktop\LojaUrucasImportados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\55359\Desktop\LojaUrucasImportados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\AcessoBancoDados\obj\Debug\AcessoBancoDados.csproj.AssemblyReference.cache
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\AcessoBancoDados\obj\Debug\AcessoBancoDados.csproj.CoreCompileInputs.cache
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\AcessoBancoDados\bin\Debug\Guna.UI2.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\AcessoBancoDados\obj\Debug\AcessoBancoDados.csproj.CopyComplete
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\AcessoBancoDados\bin\Debug\MetroFramework.Design.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\AcessoBancoDados\bin\Debug\MetroFramework.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\AcessoBancoDados\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\AcessoBancoDados\bin\Debug\Guna.UI2.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\AcessoBancoDados\bin\Debug\MetroFramework.Design.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\AcessoBancoDados\bin\Debug\MetroFramework.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\AcessoBancoDados\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\AcessoBancoDados\obj\Debug\AcessoBancoDados.csproj.AssemblyReference.cache
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\AcessoBancoDados\obj\Debug\AcessoBancoDados.csproj.CoreCompileInputs.cache
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\AcessoBancoDados\obj\Debug\AcessoBancoDados.csproj.CopyComplete
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\AcessoBancoDados\bin\Debug\Guna.UI2.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\AcessoBancoDados\bin\Debug\MetroFramework.Design.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\AcessoBancoDados\bin\Debug\MetroFramework.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\AcessoBancoDados\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\AcessoBancoDados\bin\Debug\System.Drawing.Common.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\AcessoBancoDados\bin\Debug\System.Drawing.Common.xml
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\AcessoBancoDados\obj\Debug\AcessoBancoDados.csproj.AssemblyReference.cache
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\AcessoBancoDados\obj\Debug\AcessoBancoDados.csproj.CoreCompileInputs.cache
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\AcessoBancoDados\obj\Debug\AcessoBancoDados.csproj.CopyComplete
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\AcessoBancoDados\bin\Debug\Guna.UI2.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\AcessoBancoDados\bin\Debug\MetroFramework.Design.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\AcessoBancoDados\bin\Debug\MetroFramework.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\AcessoBancoDados\bin\Debug\MetroFramework.Fonts.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\AcessoBancoDados\bin\Debug\System.Drawing.Common.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\AcessoBancoDados\bin\Debug\System.Drawing.Common.xml
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\AcessoBancoDados\obj\Debug\AcessoBancoDados.csproj.AssemblyReference.cache
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\AcessoBancoDados\obj\Debug\AcessoBancoDados.csproj.CoreCompileInputs.cache
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\AcessoBancoDados\obj\Debug\AcessoBancoDados.csproj.CopyComplete
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb

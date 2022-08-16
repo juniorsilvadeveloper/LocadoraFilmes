@@ -1,0 +1,245 @@
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\bin\Debug\Interface.exe.config
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\bin\Debug\Interface.exe
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\bin\Debug\Interface.pdb
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.exe
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.pdb
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.FrmMenu.resources
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.FrmCliente.resources
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\bin\Debug\ObjetoTransferencia.dll
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\bin\Debug\RegraNegocio.dll
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\bin\Debug\AcessoBancoDados.dll
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\bin\Debug\RegraNegocio.pdb
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\bin\Debug\AcessoBancoDados.pdb
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.csproj.CopyComplete
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\bin\Debug\System.Data.SqlClient.dll
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\bin\Debug\System.Data.SqlClient.xml
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\55359\Desktop\LojaUrucasImportados\Interface\bin\Debug\Guna.UI2.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\bin\Debug\Interface.exe.config
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\bin\Debug\Interface.exe
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\bin\Debug\Interface.pdb
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\bin\Debug\Guna.UI2.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\bin\Debug\RegraNegocio.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\bin\Debug\AcessoBancoDados.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\bin\Debug\RegraNegocio.pdb
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.FrmCliente.resources
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.csproj.CopyComplete
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.exe
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.pdb
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.FrmNovoCliente.resources
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.FrmProduto.resources
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.FrmProdutoConsultar.resources
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.FrmMenuPrincipal.resources
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.FrmCategoria.resources
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.FrmSubCategoria.resources
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.FrmMarca.resources
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.FrmMarcaConsultar.resources
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.FrmCategoriaConsultar.resources
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\Interface\obj\Debug\Interface.FrmSubCategoriaConsultar.resources
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\Interface.exe.config
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\Interface.exe
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\Interface.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\AcessoBancoDados.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\Guna.UI2.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\RegraNegocio.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\RegraNegocio.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.FrmMenuPrincipal.resources
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.csproj.CopyComplete
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.exe
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.FrmUsuario.resources
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.FrmUsuarioConsultar.resources
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\Interface.exe.config
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\Interface.exe
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\Interface.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\AcessoBancoDados.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\Guna.UI2.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\Newtonsoft.Json.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\ObjetoTransferencia.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\RegraNegocio.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\System.Data.SqlClient.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\AcessoBancoDados.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\AcessoBancoDados.dll.config
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\ObjetoTransferencia.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\RegraNegocio.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\Newtonsoft.Json.xml
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\bin\Debug\System.Data.SqlClient.xml
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.FrmMenuPrincipal.resources
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.FrmUsuario.resources
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.FrmUsuarioConsultar.resources
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.Properties.Resources.resources
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.csproj.CopyComplete
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.exe
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\Interface\obj\Debug\Interface.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmMenuPrincipal.resources
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmUsuario.resources
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmUsuarioConsultar.resources
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.Properties.Resources.resources
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.exe
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Interface.exe.config
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Interface.exe
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Interface.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\AcessoBancoDados.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Guna.UI2.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Newtonsoft.Json.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\ObjetoTransferencia.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\RegraNegocio.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\System.Data.SqlClient.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\AcessoBancoDados.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\AcessoBancoDados.dll.config
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\ObjetoTransferencia.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\RegraNegocio.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Newtonsoft.Json.xml
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\System.Data.SqlClient.xml
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.csproj.CopyComplete
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmLogin.resources
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmMenuPrincipal.resources
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmUsuario.resources
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmUsuarioConsultar.resources
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.exe
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Interface.exe.config
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Interface.exe
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Interface.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\AcessoBancoDados.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Guna.UI2.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\RegraNegocio.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\RegraNegocio.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.csproj.CopyComplete
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmLogin.resources
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\System.Drawing.Common.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\System.Drawing.Common.xml
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmFilmeSerie.resources
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmFilme_Serie_Consultar.resources
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmTemporada.resources
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmTemporadaConsultar.resources
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmEpisodio.resources
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmEpisodioConsultar.resources
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Interface.exe.config
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Interface.exe
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Interface.pdb
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\AcessoBancoDados.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Guna.UI2.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Newtonsoft.Json.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\ObjetoTransferencia.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\RegraNegocio.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\System.Data.SqlClient.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\System.Drawing.Common.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\AcessoBancoDados.pdb
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\AcessoBancoDados.dll.config
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\ObjetoTransferencia.pdb
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\RegraNegocio.pdb
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Newtonsoft.Json.xml
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\System.Data.SqlClient.xml
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\System.Drawing.Common.xml
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmEpisodio.resources
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmEpisodioConsultar.resources
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmFilmeSerie.resources
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmFilme_Serie_Consultar.resources
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmLogin.resources
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmMenuPrincipal.resources
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmTemporada.resources
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmTemporadaConsultar.resources
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmUsuario.resources
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmUsuarioConsultar.resources
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.Properties.Resources.resources
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.csproj.CopyComplete
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.exe
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.pdb
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Interface.exe.config
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Interface.exe
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Interface.pdb
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\AcessoBancoDados.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Guna.UI2.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\ObjetoTransferencia.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\RegraNegocio.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\System.Data.SqlClient.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\System.Drawing.Common.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\AcessoBancoDados.pdb
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\RegraNegocio.pdb
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\System.Data.SqlClient.xml
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\bin\Debug\System.Drawing.Common.xml
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmEpisodio.resources
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmEpisodioConsultar.resources
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmFilme_Serie_Consultar.resources
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmLogin.resources
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmMenuPrincipal.resources
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmTemporada.resources
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmTemporadaConsultar.resources
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmUsuario.resources
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmUsuarioConsultar.resources
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.csproj.CopyComplete
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.exe
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.pdb
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmFilme_Serie.resources
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmCaixaDialogo.resources
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmFilmes.resources
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmSeries.resources
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\Interface\obj\Debug\Interface.FrmFavoritosConsultar.resources

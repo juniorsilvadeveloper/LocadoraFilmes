@@ -1,0 +1,130 @@
+C:\Users\55359\Desktop\LojaUrucasImportados\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\55359\Desktop\LojaUrucasImportados\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\55359\Desktop\LojaUrucasImportados\RegraNegocio\bin\Debug\AcessoBancoDados.dll
+C:\Users\55359\Desktop\LojaUrucasImportados\RegraNegocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\55359\Desktop\LojaUrucasImportados\RegraNegocio\bin\Debug\AcessoBancoDados.pdb
+C:\Users\55359\Desktop\LojaUrucasImportados\RegraNegocio\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\55359\Desktop\LojaUrucasImportados\RegraNegocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\55359\Desktop\LojaUrucasImportados\RegraNegocio\obj\Debug\RegraNegocio.csproj.AssemblyReference.cache
+C:\Users\55359\Desktop\LojaUrucasImportados\RegraNegocio\obj\Debug\RegraNegocio.csproj.CoreCompileInputs.cache
+C:\Users\55359\Desktop\LojaUrucasImportados\RegraNegocio\obj\Debug\RegraNegocio.csproj.CopyComplete
+C:\Users\55359\Desktop\LojaUrucasImportados\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\55359\Desktop\LojaUrucasImportados\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\RegraNegocio\bin\Debug\AcessoBancoDados.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\RegraNegocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\RegraNegocio\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\RegraNegocio\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\RegraNegocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\RegraNegocio\obj\Debug\RegraNegocio.csproj.AssemblyReference.cache
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\RegraNegocio\obj\Debug\RegraNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\RegraNegocio\obj\Debug\RegraNegocio.csproj.CopyComplete
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\RegraNegocio\bin\Debug\Guna.UI2.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\RegraNegocio\bin\Debug\MetroFramework.Design.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\RegraNegocio\bin\Debug\MetroFramework.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\RegraNegocio\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\AcessoBancoDados.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\Guna.UI2.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\MetroFramework.Design.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\MetroFramework.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\RegraNegocio\obj\Debug\RegraNegocio.csproj.AssemblyReference.cache
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\RegraNegocio\obj\Debug\RegraNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\RegraNegocio\obj\Debug\RegraNegocio.csproj.CopyComplete
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\RegraNegocio\obj\Debug\RegraNegocio.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\RegraNegocio.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\RegraNegocio.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\AcessoBancoDados.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\Guna.UI2.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\MetroFramework.Design.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\MetroFramework.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\MetroFramework.Fonts.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\ObjetoTransferencia.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\AcessoBancoDados.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\AcessoBancoDados.dll.config
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\RegraNegocio\bin\Debug\ObjetoTransferencia.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\RegraNegocio\obj\Debug\RegraNegocio.csproj.AssemblyReference.cache
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\RegraNegocio\obj\Debug\RegraNegocio.csproj.CoreCompileInputs.cache
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\RegraNegocio\obj\Debug\RegraNegocio.csproj.CopyComplete
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\RegraNegocio\obj\Debug\RegraNegocio.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\RegraNegocio\obj\Debug\RegraNegocio.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\RegraNegocio.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\RegraNegocio.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\AcessoBancoDados.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\Guna.UI2.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\MetroFramework.Design.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\MetroFramework.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\MetroFramework.Fonts.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\ObjetoTransferencia.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\AcessoBancoDados.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\AcessoBancoDados.dll.config
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\ObjetoTransferencia.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.csproj.AssemblyReference.cache
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.csproj.CoreCompileInputs.cache
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.csproj.CopyComplete
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\AcessoBancoDados.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\Guna.UI2.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\MetroFramework.Design.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\MetroFramework.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.csproj.AssemblyReference.cache
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.csproj.CopyComplete
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\System.Drawing.Common.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\System.Drawing.Common.xml
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\RegraNegocio.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\RegraNegocio.pdb
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\AcessoBancoDados.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\Guna.UI2.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\MetroFramework.Design.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\MetroFramework.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\MetroFramework.Fonts.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\ObjetoTransferencia.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\System.Drawing.Common.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\AcessoBancoDados.pdb
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\AcessoBancoDados.dll.config
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\ObjetoTransferencia.pdb
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\System.Drawing.Common.xml
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.csproj.AssemblyReference.cache
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.csproj.CoreCompileInputs.cache
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.csproj.CopyComplete
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\AcessoBancoDados.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\Guna.UI2.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\MetroFramework.Design.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\MetroFramework.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\System.Drawing.Common.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\AcessoBancoDados.pdb
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\bin\Debug\System.Drawing.Common.xml
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.csproj.AssemblyReference.cache
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.csproj.CoreCompileInputs.cache
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.csproj.CopyComplete
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\RegraNegocio\obj\Debug\RegraNegocio.pdb

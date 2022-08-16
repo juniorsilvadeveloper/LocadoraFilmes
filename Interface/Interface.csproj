@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DB34ABAA-B582-4EF8-B726-63178B964412}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Interface</RootNamespace>
+    <AssemblyName>Interface</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.0.1, Culture=neutral, PublicKeyToken=ad275b4be6718d4b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\LIVRARIA VISUAL STUDIO\Guna UI Framework Ultimate v2.0.0.1 Lib-Master\Guna.UI2 WinForms\.net 2.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility.Data" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlClient, Version=4.6.1.3, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SqlClient.4.8.3\lib\net461\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Drawing.Common.6.0.0\lib\net461\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcaoNaTela.cs" />
+    <Compile Include="FrmCaixaDialogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCaixaDialogo.Designer.cs">
+      <DependentUpon>FrmCaixaDialogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEpisodio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEpisodio.Designer.cs">
+      <DependentUpon>FrmEpisodio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEpisodioConsultar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEpisodioConsultar.Designer.cs">
+      <DependentUpon>FrmEpisodioConsultar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFavoritosConsultar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFavoritosConsultar.Designer.cs">
+      <DependentUpon>FrmFavoritosConsultar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFilmes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFilmes.Designer.cs">
+      <DependentUpon>FrmFilmes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFilme_Serie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFilme_Serie.Designer.cs">
+      <DependentUpon>FrmFilme_Serie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFilme_Serie_Consultar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFilme_Serie_Consultar.Designer.cs">
+      <DependentUpon>FrmFilme_Serie_Consultar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuPrincipal.Designer.cs">
+      <DependentUpon>FrmMenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSeries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSeries.Designer.cs">
+      <DependentUpon>FrmSeries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTemporada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTemporada.Designer.cs">
+      <DependentUpon>FrmTemporada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTemporadaConsultar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTemporadaConsultar.Designer.cs">
+      <DependentUpon>FrmTemporadaConsultar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuario.Designer.cs">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsuarioConsultar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuarioConsultar.Designer.cs">
+      <DependentUpon>FrmUsuarioConsultar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ValidadorDados.cs" />
+    <EmbeddedResource Include="FrmCaixaDialogo.resx">
+      <DependentUpon>FrmCaixaDialogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEpisodio.resx">
+      <DependentUpon>FrmEpisodio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEpisodioConsultar.resx">
+      <DependentUpon>FrmEpisodioConsultar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFavoritosConsultar.resx">
+      <DependentUpon>FrmFavoritosConsultar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFilmes.resx">
+      <DependentUpon>FrmFilmes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFilme_Serie.resx">
+      <DependentUpon>FrmFilme_Serie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFilme_Serie_Consultar.resx">
+      <DependentUpon>FrmFilme_Serie_Consultar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuPrincipal.resx">
+      <DependentUpon>FrmMenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSeries.resx">
+      <DependentUpon>FrmSeries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTemporada.resx">
+      <DependentUpon>FrmTemporada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTemporadaConsultar.resx">
+      <DependentUpon>FrmTemporadaConsultar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuario.resx">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuarioConsultar.resx">
+      <DependentUpon>FrmUsuarioConsultar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AcessoBancoDados\AcessoBancoDados.csproj">
+      <Project>{63df80fe-2026-408c-a22f-99339bca7ac1}</Project>
+      <Name>AcessoBancoDados</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjetoTransferencia\ObjetoTransferencia.csproj">
+      <Project>{eb7ba25b-d953-4ac7-bd5a-5a42ed02e7ef}</Project>
+      <Name>ObjetoTransferencia</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RegraNegocio\RegraNegocio.csproj">
+      <Project>{5bee04e1-80d6-4e6b-a79b-0f5f108fc043}</Project>
+      <Name>RegraNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

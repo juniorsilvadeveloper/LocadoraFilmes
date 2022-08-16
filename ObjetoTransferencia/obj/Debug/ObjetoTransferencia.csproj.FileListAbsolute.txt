@@ -1,0 +1,89 @@
+C:\Users\55359\Desktop\LojaUrucasImportados\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\55359\Desktop\LojaUrucasImportados\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\55359\Desktop\LojaUrucasImportados\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.AssemblyReference.cache
+C:\Users\55359\Desktop\LojaUrucasImportados\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+C:\Users\55359\Desktop\LojaUrucasImportados\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\55359\Desktop\LojaUrucasImportados\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.AssemblyReference.cache
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\ObjetoTransferencia\bin\Debug\Guna.UI2.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CopyComplete
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\ObjetoTransferencia\bin\Debug\MetroFramework.Design.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\ObjetoTransferencia\bin\Debug\MetroFramework.dll
+C:\Users\Júnior Silva\Desktop\LojaUrucasImportados\ObjetoTransferencia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\bin\Debug\Guna.UI2.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\bin\Debug\MetroFramework.Design.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\bin\Debug\MetroFramework.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.AssemblyReference.cache
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CopyComplete
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\bin\Debug\Guna.UI2.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\bin\Debug\MetroFramework.Design.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\bin\Debug\MetroFramework.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\bin\Debug\MetroFramework.Fonts.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.AssemblyReference.cache
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CopyComplete
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 1\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\Guna.UI2.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\MetroFramework.Design.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\MetroFramework.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\MetroFramework.Fonts.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.AssemblyReference.cache
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CopyComplete
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+D:\BACKUP\DESKTOP\DESENVOLVIMENTO\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\Guna.UI2.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\MetroFramework.Design.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\MetroFramework.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.AssemblyReference.cache
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CopyComplete
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\System.Drawing.Common.dll
+C:\Users\Júnior Silva\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\System.Drawing.Common.xml
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\Guna.UI2.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\MetroFramework.Design.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\MetroFramework.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\MetroFramework.Fonts.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\System.Drawing.Common.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\System.Drawing.Common.xml
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.AssemblyReference.cache
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CopyComplete
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+D:\DESKTOP 08-05-2022\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\Guna.UI2.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\MetroFramework.Design.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\MetroFramework.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\System.Drawing.Common.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\bin\Debug\System.Drawing.Common.xml
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.AssemblyReference.cache
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CopyComplete
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\estudo-pc\Desktop\AVALIAÇÃO ETAPA 2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
